@@ -149,13 +149,24 @@
    </div>
 
    <div class="container">
-         <nav class="navbar navbar-expand-lg  navbar-light bg-dark">
+         <nav class="navbar navbar-expand-lg  navbar-light bg-dark text-white">
  <nav>
   
-</nav>
-  <font color='#FCF8F8' ><h6>&copy;Copyright 2020 All rights reserved.</h6></font>
-</nav>
-
+   
+      <div class="container">
+      
+      <div class="row pt-3">
+       <div class="col text-center">
+       <h6>&copy;Copyright 2020 All rights reserved.</h6>
+       
+       
+       </div>
+      
+      </div>
+      
+      </div>
+   
+   </footer>
 
 
    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
